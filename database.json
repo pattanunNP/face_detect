@@ -1,0 +1,263 @@
+[
+  {
+    "index": 0,
+    "student_id": "",
+    "name": "นางสาวจิดาภา ฤชุวรารักษ์",
+    "nickname": "ใบบัว",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวจิดาภา_ฤชุวรารักษ์.jpg",
+    "added_time": "2020-12-24T14:18:58.837678+07:00"
+  },
+  {
+    "index": 1,
+    "student_id": "",
+    "name": "นางสาวญาดา ธรรมจริยาวัฒน์",
+    "nickname": "ข้าวปั่น",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวญาดา_ธรรมจริยาวัฒน์.jpg",
+    "added_time": "2020-12-24T14:19:03.951165+07:00"
+  },
+  {
+    "index": 2,
+    "student_id": "",
+    "name": "นางสาวนภสกรณ์ สุวรรณบุตร",
+    "nickname": "ป๊อปปี้",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวนภสกรณ์_สุวรรณบุตร.jpg",
+    "added_time": "2020-12-24T14:19:09.308374+07:00"
+  },
+  {
+    "index": 3,
+    "student_id": "",
+    "name": "นางสาวนภสร จางคกูล",
+    "nickname": "แบมแบม",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวนภสร_จางคกูล.jpg",
+    "added_time": "2020-12-24T14:19:14.422778+07:00"
+  },
+  {
+    "index": 4,
+    "student_id": "",
+    "name": "นางสาวนันทกานต์ กรเกษม",
+    "nickname": "กานต์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวนันทกานต์_กรเกษม.jpg",
+    "added_time": "2020-12-24T14:19:19.294928+07:00"
+  },
+  {
+    "index": 5,
+    "student_id": "",
+    "name": "นางสาวพรพิชญ์พัณ เนียมหอม",
+    "nickname": "แพท",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวพรพิชญ์พัณ_เนียมหอม.jpg",
+    "added_time": "2020-12-24T14:19:24.617844+07:00"
+  },
+  {
+    "index": 6,
+    "student_id": "พลอย",
+    "name": "นางสาวพลอยไพลิน จันทร์ศรี",
+    "nickname": "",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวพลอยไพลิน_จันทร์ศรี.jpg",
+    "added_time": "2020-12-24T14:19:29.689737+07:00"
+  },
+  {
+    "index": 7,
+    "student_id": "",
+    "name": "นางสาวพิชญาภัค ภูวทิตย์",
+    "nickname": "",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวพิชญาภัค_ภูวทิตย์.jpg",
+    "added_time": "2020-12-24T14:19:34.767462+07:00"
+  },
+  {
+    "index": 8,
+    "student_id": "",
+    "name": "นางสาวลักษิกา โพยนอก",
+    "nickname": "ปู๊น",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวลักษิกา_โพยนอก.jpg",
+    "added_time": "2020-12-24T14:19:39.864431+07:00"
+  },
+  {
+    "index": 9,
+    "student_id": "",
+    "name": "นางสาวศรัณย์พร เลิศสีมาพร",
+    "nickname": "หลิง",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวศรัณย์พร_เลิศสีมาพร.jpg",
+    "added_time": "2020-12-24T14:19:44.908083+07:00"
+  },
+  {
+    "index": 10,
+    "student_id": "",
+    "name": "นางสาวศุภิสรา ภูกาสอน",
+    "nickname": "ลินจี้",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวศุภิสรา_ภูกาสอน.jpg",
+    "added_time": "2020-12-24T14:19:49.974169+07:00"
+  },
+  {
+    "index": 11,
+    "student_id": "",
+    "name": "นางสาวสุจิรา พื้นพันธ์",
+    "nickname": "ฟ้า",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวสุจิรา_พื้นพันธ์.jpg",
+    "added_time": "2020-12-24T14:19:55.081596+07:00"
+  },
+  {
+    "index": 12,
+    "student_id": "",
+    "name": "นางสาวสุชานรี ศรีเฉลิม",
+    "nickname": "ขิม",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวสุชานรี_ศรีเฉลิม.jpg",
+    "added_time": "2020-12-24T14:20:00.205677+07:00"
+  },
+  {
+    "index": 13,
+    "student_id": "",
+    "name": "นางสาวอนุสรา เภาศรี",
+    "nickname": "ตอง",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวอนุสรา_เภาศรี.jpg",
+    "added_time": "2020-12-24T14:20:05.301580+07:00"
+  },
+  {
+    "index": 14,
+    "student_id": "",
+    "name": "นางสาวอภัชญา อุดมพีรกานต์",
+    "nickname": "เบลล์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวอภัชญา_อุดมพีรกานต์.jpg",
+    "added_time": "2020-12-24T14:20:10.378865+07:00"
+  },
+  {
+    "index": 15,
+    "student_id": "",
+    "name": "นางสาวอุษณิษา แซ่แต้",
+    "nickname": "หยก",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวอุษณิษา_แซ่แต้.jpg",
+    "added_time": "2020-12-24T14:20:15.485966+07:00"
+  },
+  {
+    "index": 16,
+    "student_id": "",
+    "name": "นางสาวเบญญาภา กุยแก้ว",
+    "nickname": "เจ้าขา",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นางสาวเบญญาภา_กุยแก้ว.jpg",
+    "added_time": "2020-12-24T14:20:20.545769+07:00"
+  },
+  {
+    "index": 17,
+    "student_id": "",
+    "name": "นายกานต์ เล็กสุนทร",
+    "nickname": "กานต์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายกานต์_เล็กสุนทร.jpg",
+    "added_time": "2020-12-24T14:20:25.646665+07:00"
+  },
+  {
+    "index": 18,
+    "student_id": "",
+    "name": "นายญาณวัฒน์ สมอ่อน",
+    "nickname": "โฟร์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายญาณวัฒน์_สมอ่อน.jpg",
+    "added_time": "2020-12-24T14:20:30.689582+07:00"
+  },
+  {
+    "index": 19,
+    "student_id": "",
+    "name": "นายฐิธติรัฐ รัตนพงศ์กิตติ",
+    "nickname": "บอสส์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายฐิธติรัฐ_รัตนพงศ์กิตติ.jpg",
+    "added_time": "2020-12-24T14:20:37.291481+07:00"
+  },
+  {
+    "index": 20,
+    "student_id": "",
+    "name": "นายณัฐภัทร แสงสว่าง",
+    "nickname": "นะโม",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายณัฐภัทร_แสงสว่าง.jpg",
+    "added_time": "2020-12-24T14:20:43.299276+07:00"
+  },
+  {
+    "index": 21,
+    "student_id": "",
+    "name": "นายทักษ์ดนัย ศรีสุข",
+    "nickname": "แม็ก",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายทักษ์ดนัย_ศรีสุข.jpg",
+    "added_time": "2020-12-24T14:20:48.754578+07:00"
+  },
+  {
+    "index": 22,
+    "student_id": "",
+    "name": "นายธรรมรักษ์ ไชยรักษ์",
+    "nickname": "รักษ์",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายธรรมรักษ์_ไชยรักษ์.jpg",
+    "added_time": "2020-12-24T14:20:53.793429+07:00"
+  },
+  {
+    "index": 23,
+    "student_id": "",
+    "name": "นายธีรพิชญ์ ศิริไชยบูลย์วัฒน์",
+    "nickname": "ฮั่ว",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายธีรพิชญ์_ศิริไชยบูลย์วัฒน์.jpg",
+    "added_time": "2020-12-24T14:20:58.885841+07:00"
+  },
+  {
+    "index": 24,
+    "student_id": "",
+    "name": "นายบุญพบ สุตะพันธ์",
+    "nickname": "พบ",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายบุญพบ_สุตะพันธ์.jpg",
+    "added_time": "2020-12-24T14:21:03.958729+07:00"
+  },
+  {
+    "index": 25,
+    "student_id": "6130602",
+    "name": "นายพัทธนันท์ นุ่มผ่อง",
+    "nickname": "Arm",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายพัทธนันท์_นุ่มผ่อง.jpg",
+    "added_time": "2020-12-24T14:21:09.026903+07:00"
+  },
+  {
+    "index": 26,
+    "student_id": "",
+    "name": "นายพิทยุตม์ กิ่งแก้ว",
+    "nickname": "ไตเติ้ล",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายพิทยุตม์_กิ่งแก้ว.jpg",
+    "added_time": "2020-12-24T14:21:14.233646+07:00"
+  },
+  {
+    "index": 27,
+    "student_id": "",
+    "name": "นายวิชญ์นนท์ พิชยชาญสิน",
+    "nickname": "ณัฐ",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายวิชญ์นนท์_พิชยชาญสิน.jpg",
+    "added_time": "2020-12-24T14:21:19.267401+07:00"
+  },
+  {
+    "index": 28,
+    "student_id": "",
+    "name": "นายศศิกฤษฎิ์ ฤทธิอนันตศิริ",
+    "nickname": "พีช",
+    "class": "6/3",
+    "image_path": "./src/Database/6-3/นายศศิกฤษฎิ์_ฤทธิอนันตศิริ.jpg",
+    "added_time": "2020-12-24T14:21:24.346821+07:00"
+  }
+]
